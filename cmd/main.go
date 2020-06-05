@@ -7,9 +7,9 @@ import (
 	"os/signal"
 	"syscall"
 
-	"github.com/btcsuite/btcd/wire"
 	bridge "github.com/mit-dci/utreexo/bridgenode"
 	"github.com/mit-dci/utreexo/csn"
+	"github.com/rjected/btcd/wire"
 )
 
 var msg = `

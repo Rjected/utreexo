@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	"github.com/btcsuite/btcd/wire"
+	"github.com/rjected/btcd/wire"
 )
 
 // Wire Protocol version

@@ -10,8 +10,8 @@ import (
 	"sort"
 	"time"
 
-	"github.com/btcsuite/btcd/wire"
 	"github.com/mit-dci/utreexo/accumulator"
+	"github.com/rjected/btcd/wire"
 )
 
 // Hash is just [32]byte

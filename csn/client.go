@@ -4,9 +4,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/btcsuite/btcd/wire"
 	"github.com/mit-dci/utreexo/accumulator"
 	"github.com/mit-dci/utreexo/util"
+	"github.com/rjected/btcd/wire"
 )
 
 // run IBD from block proof data

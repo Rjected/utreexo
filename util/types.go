@@ -7,8 +7,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/btcsuite/btcd/wire"
 	"github.com/mit-dci/utreexo/accumulator"
+	"github.com/rjected/btcd/wire"
 )
 
 type Hash [32]byte

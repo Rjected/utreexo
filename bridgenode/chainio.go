@@ -4,9 +4,9 @@ import (
 	"encoding/binary"
 	"os"
 
-	"github.com/btcsuite/btcd/wire"
 	"github.com/mit-dci/utreexo/accumulator"
 	"github.com/mit-dci/utreexo/util"
+	"github.com/rjected/btcd/wire"
 )
 
 // createOffsetData restores the offsetfile needed to index the
