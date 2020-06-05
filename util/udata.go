@@ -3,7 +3,7 @@ package util
 import (
 	"fmt"
 
-	"github.com/btcsuite/btcutil"
+	"github.com/rjected/btcutil"
 	"github.com/rjected/btcd/blockchain"
 	"github.com/rjected/btcd/chaincfg"
 	"github.com/rjected/btcd/txscript"
