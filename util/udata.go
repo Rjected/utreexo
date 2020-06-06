@@ -3,11 +3,11 @@ package util
 import (
 	"fmt"
 
-	"github.com/rjected/btcutil"
-	"github.com/rjected/btcd/blockchain"
-	"github.com/rjected/btcd/chaincfg"
-	"github.com/rjected/btcd/txscript"
-	"github.com/rjected/btcd/wire"
+	"github.com/btcsuite/btcutil"
+	"github.com/btcsuite/btcd/blockchain"
+	"github.com/btcsuite/btcd/chaincfg"
+	"github.com/btcsuite/btcd/txscript"
+	"github.com/btcsuite/btcd/wire"
 )
 
 // ProofsProveBlock checks the consistency of a UBlock.  Does the proof prove

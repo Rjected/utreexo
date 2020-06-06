@@ -9,7 +9,7 @@ import (
 
 	bridge "github.com/mit-dci/utreexo/bridgenode"
 	"github.com/mit-dci/utreexo/csn"
-	"github.com/rjected/btcd/wire"
+	"github.com/btcsuite/btcd/wire"
 )
 
 var msg = `

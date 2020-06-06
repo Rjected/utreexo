@@ -9,7 +9,7 @@ import (
 	"github.com/mit-dci/utreexo/accumulator"
 	"github.com/mit-dci/utreexo/util"
 	"github.com/mit-dci/utreexo/util/ttl"
-	"github.com/rjected/btcd/wire"
+	"github.com/btcsuite/btcd/wire"
 
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/opt"

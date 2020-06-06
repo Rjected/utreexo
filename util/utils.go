@@ -11,7 +11,7 @@ import (
 	"time"
 
 	"github.com/mit-dci/utreexo/accumulator"
-	"github.com/rjected/btcd/wire"
+	"github.com/btcsuite/btcd/wire"
 )
 
 // Hash is just [32]byte

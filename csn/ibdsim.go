@@ -5,7 +5,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/rjected/btcd/wire"
+	"github.com/btcsuite/btcd/wire"
 )
 
 func RunIBD(net wire.BitcoinNet, offsetfile string, ttldb string, sig chan bool) error {

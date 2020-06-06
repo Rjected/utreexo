@@ -15,8 +15,8 @@ package util
 import (
 	"io"
 
-	"github.com/rjected/btcd/btcec"
-	"github.com/rjected/btcd/txscript"
+	"github.com/btcsuite/btcd/btcec"
+	"github.com/btcsuite/btcd/txscript"
 )
 
 // -----------------------------------------------------------------------------
