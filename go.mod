@@ -10,4 +10,4 @@ require (
 	golang.org/x/crypto v0.0.0-20200604202706-70a84ac30bf9 // indirect
 )
 
-replace github.com/btcsuite/btcd => github.com/rjected/btcd v0.0.0-20200605224627-2cf2fb3f1c0b
+replace github.com/btcsuite/btcd => github.com/rjected/btcd v0.0.0-20200602144129-70509ee4b219
